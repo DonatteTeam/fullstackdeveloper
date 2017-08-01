@@ -7,7 +7,6 @@
 - Disposto a aprender coisas novas e topar desafios
 - Interessado em impacto social através da tecnologia
 - Apaixonado pelo que faz (sim, nós somos apaixonados pelo que fazemos)
-- Necessário ter portfólio ou produtos para a seleção
 
 ## Nível: 
 ### Estágio temporário remunerado
