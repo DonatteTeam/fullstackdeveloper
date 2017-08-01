@@ -20,7 +20,7 @@
 1. APIs Restful
 1. Git
 1. HTML5
-1  CSS
+1. CSS
 
 
 ### Diferenciais
