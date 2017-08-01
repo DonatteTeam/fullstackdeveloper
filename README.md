@@ -9,7 +9,7 @@
 - Apaixonado pelo que faz (sim, nós somos apaixonados pelo que fazemos)
 - Necessário ter portfólio ou produtos para a seleção
 
-## Nível: estágio temporário
+## Nível: estágio temporário remunerado
 
 ## Local de trabalho
 	Incubadora de negócios UNIFACS (Rio Vermelho)
@@ -36,7 +36,6 @@
 Startup 2.5 com foco no apoio a instituições filantropicas.
 Mais informações no primeiro contato.
 
-Trabalho remunerado
 
 ## Como se candidatar
 
