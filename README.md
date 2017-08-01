@@ -2,7 +2,7 @@
 
 ## Descrição da Vaga
 - Estudante das áreas de conhecimento em: Informática, TI, Programador / Desenvolvedor
-- Trabalhará como desenvolvedor com vontade de trabalhar em um projeto desafiador e inovador.
+- Trabalhará como desenvolvedor em um projeto desafiador e inovador.
 - Precisamos que tenha domínio em desenvolvimento com Javascript
 - Disposto a aprender coisas novas e topar desafios
 - Interessado em impacto social através da tecnologia
