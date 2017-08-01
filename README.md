@@ -9,10 +9,11 @@
 - Apaixonado pelo que faz (sim, nós somos apaixonados pelo que fazemos)
 - Necessário ter portfólio ou produtos para a seleção
 
-## Nível: estágio temporário remunerado
+## Nível: 
+### Estágio temporário remunerado
 
 ## Local de trabalho
-	Incubadora de negócios UNIFACS (Rio Vermelho)
+ Incubadora de negócios UNIFACS, Rio Vermelho, Salvador BA.
 
 ## Requisitos:
 1. JavaScript & ECMAScript 6
