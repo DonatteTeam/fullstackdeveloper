@@ -30,7 +30,7 @@
 1. Material Design
 1. AngularJS
 
-## Sobre a Donatte
+## Sobre a SolidarEasy
 
 Startup 2.5 com foco no apoio a instituições filantropicas.
 Mais informações no primeiro contato.
@@ -38,7 +38,7 @@ Mais informações no primeiro contato.
 
 ## Como se candidatar
 
-Envie um email para contato@donatte.com com seu CV anexado - enviar assunto:
+Envie um email para contato@solidareasy.com com seu CV anexado - enviar assunto:
 Vaga fullstack
 
  - CV
