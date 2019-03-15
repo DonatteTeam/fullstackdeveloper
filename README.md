@@ -32,26 +32,23 @@
 1. Material UI
 
 
-## Como Participar
+## Como se candidatar
 
 1. Teste técnico básico: antes de preencher nosso formulário de inscrição, pedimos que você crie uma conta no github, faça um pull request de 2 dos nossos desafios. Você vai precisar defender sua solução.
 - [Encurtador de Links](https://github.com/SolidarEasy/challenge-shortener)
 - [SocialCard](https://github.com/SolidarEasy/challenge-socialcard)
 - [Clima](https://github.com/SolidarEasy/challenge-weather)
-*Não se esquece de enviar seu curriculo e nos notificar por email com o assunto "Seleção ReactJS"*
+
+*Envie um email com o assunto "Seleção ReactJS" para contato@solidareasy.com com:* 
+- seu curriculo
+- Link do PR
+- Projetos (Github, portifolio,etc..)
+
 1. Entrevista com nossa equipe: buscaremos conhecer sua história, seus valores e sonhos. Você também terá oportunidade de perguntar qualquer coisa sobre nós.
 1. Feedback: nos comprometemos formalmente a fornecer um feedback individual detalhado, indenpendente se você vai trabalhar conosco ou não, queremos sempre contribuir com quem interage com a gente.
 
 ## Sobre a SolidarEasy
 
-Startup 2.5 com foco no apoio a instituições filantropicas.
-Mais informações no primeiro contato.
+A SolidarEasy é uma startup que conecta pessoas e empresas às Organizações da Sociedade Civil. Nossas soluções são um meio de captação de recursos humanos e financeiros complementares ao sistema tradicional. Com ferramentas de mapeamento, gestão de voluntários e de arrecadações queremos, juntos com você, ampliar o impacto e investimento social no Brasil.
 
-
-## Como se candidatar
-
-Envie um email para contato@solidareasy.com com seu CV anexado - enviar assunto:
-Vaga fullstack
-
- - CV
- - Projetos (Github, portifolio,etc..)
+[Para saber mais...](https://www.solidareasy.com/blog/)
