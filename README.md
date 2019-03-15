@@ -34,8 +34,8 @@
 
 ## Como Participar
 
-1. Envio de curriculo por email contato@solidareasy.com com o assunto "Seleção Fullstack"
-1. Teste técnico básico: antes de preencher nosso formulário de inscrição, pedimos que você crie uma conta no github, faça um pull request do nosso desafio. Você vai precisar defender sua solução.
+1. Envio de curriculo por email contato@solidareasy.com com o assunto "Seleção ReactJS"
+1. Teste técnico básico: antes de preencher nosso formulário de inscrição, pedimos que você crie uma conta no github, faça um pull request do nossos 2 desafios (https://github.com/SolidarEasy/frontend-intern-challenge e https://github.com/SolidarEasy/frontend-intern-challenge). Você vai precisar defender sua solução.
 1. Entrevista com nossa equipe: buscaremos conhecer sua história, seus valores e sonhos. Você também terá oportunidade de perguntar qualquer coisa sobre nós.
 1. Feedback: nos comprometemos formalmente a fornecer um feedback individual detalhado, indenpendente se você vai trabalhar conosco ou não, queremos sempre contribuir com quem interage com a gente.
 
