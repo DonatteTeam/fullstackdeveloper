@@ -45,10 +45,12 @@
 - Projetos (Github, portifolio,etc..)
 
 1. Entrevista com nossa equipe: buscaremos conhecer sua história, seus valores e sonhos. Você também terá oportunidade de perguntar qualquer coisa sobre nós.
-1. Feedback: nos comprometemos formalmente a fornecer um feedback individual detalhado, indenpendente se você vai trabalhar conosco ou não, queremos sempre contribuir com quem interage com a gente.
+1. Feedback: nos comprometemos formalmente a fornecer um feedback individual detalhado, independente se você vai trabalhar conosco ou não, queremos sempre contribuir com quem interage com a gente.
 
 ## Sobre a SolidarEasy
 
 A SolidarEasy é uma startup que conecta pessoas e empresas às Organizações da Sociedade Civil. Nossas soluções são um meio de captação de recursos humanos e financeiros complementares ao sistema tradicional. Com ferramentas de mapeamento, gestão de voluntários e de arrecadações queremos, juntos com você, ampliar o impacto e investimento social no Brasil.
 
-[Para saber mais...](https://www.solidareasy.com/blog/)
+Para saber mais, nos siga ... 
+
+[FACE](https://www.facebook.com/solidareasy) / [INSTA](https://www.instagram.com/solidareasy) / [TWT](https://twitter.com/solidareasy) / [LNKD](https://www.linkedin.com/company/solidareasy) / [WP](https://www.solidareasy.com/blog/)
