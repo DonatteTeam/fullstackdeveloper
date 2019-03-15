@@ -27,7 +27,6 @@
 ### Diferenciais
 
 1. Desenvolvimento com outras linguagens ou frameworks não mencionados acima serão um grande diferencial
-1. Node.js & Express
 1. Material Design
 1. Material UI
 
