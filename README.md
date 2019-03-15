@@ -35,7 +35,7 @@
 ## Como Participar
 
 1. Envio de curriculo por email contato@solidareasy.com com o assunto "Seleção ReactJS"
-1. Teste técnico básico: antes de preencher nosso formulário de inscrição, pedimos que você crie uma conta no github, faça um pull request de 2 dos nosso desafios. Você vai precisar defender sua solução.
+1. Teste técnico básico: antes de preencher nosso formulário de inscrição, pedimos que você crie uma conta no github, faça um pull request de 2 dos nossos desafios. Você vai precisar defender sua solução.
 - [Encurtador de Links](https://github.com/SolidarEasy/shortener)
 - [SocialCard](https://github.com/SolidarEasy/socialcard)
 - [Clima](https://github.com/SolidarEasy/weather)
