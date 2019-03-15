@@ -53,4 +53,4 @@ A SolidarEasy é uma startup que conecta pessoas e empresas às Organizações d
 
 Para saber mais, nos siga ... 
 
-[FACE](https://www.facebook.com/solidareasy) / [INSTA](https://www.instagram.com/solidareasy) / [TWT](https://twitter.com/solidareasy) / [LNKD](https://www.linkedin.com/company/solidareasy) / [WP](https://www.solidareasy.com/blog/)
+[FACEBOOK](https://www.facebook.com/solidareasy) / [INSTAGRAM](https://www.instagram.com/solidareasy) / [TWITTER](https://twitter.com/solidareasy) / [LINKEDIN](https://www.linkedin.com/company/solidareasy) / [WORDPRESS](https://www.solidareasy.com/blog/)
